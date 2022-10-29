@@ -2,13 +2,22 @@ import React from "react";
 
 function Profile() {
   return (
-    <main>
+    <main className="profile--main">
       <section className="image-name">
-        <img src="" alt="" />
-        <p className="name"></p>
+        <img
+          src="/images/amosapics.jpg"
+          alt="abdulfata"
+          className="abdulfatah"
+          id="profile__img"
+        />
+        <p className="name" id="twitter">
+          Amosa Abdulfatah Olayinka
+        </p>
       </section>
       <section className="links">
-        <div className="link"></div>
+        <a href="">
+          <div className="link"></div>
+        </a>
       </section>
     </main>
   );
