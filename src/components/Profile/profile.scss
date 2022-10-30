@@ -1,5 +1,5 @@
 .profile--main {
-  @apply flex flex-col gap-y-[3.5rem] pt-[4rem] px-[9rem] pb-[1.5rem];
+  @apply flex flex-col gap-y-[3.5rem] mt-[4rem] mx-[9rem] mb-[1.5rem];
 
   .image-name {
     @apply flex flex-col gap-y-[1.5rem];
@@ -17,7 +17,7 @@
     @apply flex flex-col gap-y-[1.25];
 
     .link {
-      @apply bg-[#EAECF0 ] w-[72rem] h-[4.75rem] rounded-[.5rem] px-[2rem] py-[1.5rem];
+      @apply bg-[#EAECF0] w-[72rem] h-[4.75rem] rounded-[.5rem] px-[2rem] py-[1.5rem];
     }
   }
 }

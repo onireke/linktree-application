@@ -1,5 +1,5 @@
 import React from "react";
-import "./Icons.scss";
+import "./icons.scss";
 
 function Icons() {
   return (
