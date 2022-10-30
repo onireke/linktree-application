@@ -1,0 +1,7 @@
+.icons {
+  @apply flex justify-center items-center gap-x-[1.5rem]  px-[1.5rem];
+
+  .icon {
+    @apply h-[1.5rem] w-[1.5rem];
+  }
+}
