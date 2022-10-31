@@ -10,6 +10,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+:root {
+  @media 640px {
+    p: 10px;
+  }
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;

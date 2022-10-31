@@ -21,37 +21,37 @@ function Profile() {
       </section>
       <section className="links">
         <a href="https://twitter.com/BlessedCoder">
-          <btn className="link">Twitter Link</btn>
+          <div className="link">Twitter Link</div>
         </a>
 
         <a href="https://training.zuri.team/">
-          <btn className="link" id="btn_zuri">
+          <div className="link" id="btn_zuri">
             Zuri Team
-          </btn>
+          </div>
         </a>
 
         <a href="http://books.zuri.team/">
-          <btn className="link" id="books">
+          <div className="link" id="books">
             Zuri Team
-          </btn>
+          </div>
         </a>
 
         <a href="https://books.zuri.team/">
-          <btn className="link" id="book_python">
+          <div className="link" id="book_python">
             Python Books
-          </btn>
+          </div>
         </a>
 
         <a href="https://background.zuri.team/">
-          <btn className="link" id="pitch">
+          <div className="link" id="pitch">
             Background Check for Coders
-          </btn>
+          </div>
         </a>
 
         <a href="https://background.zuri.team/">
-          <btn className="link" id="book_design">
+          <div className="link" id="book_design">
             Design Book
-          </btn>
+          </div>
         </a>
       </section>
     </main>
